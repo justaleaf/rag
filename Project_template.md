@@ -100,3 +100,29 @@ Overlap: 64 токена (для сохранения контекста меж�
 Всего в индексе 32 чанков  
 Генерация заняла считанные секунды  
 
+### Примеры диалогов:
+
+📝 Question: Who is the father of Jorin Solen?
+✅ Response:
+Torin Vex is the father of Jorin Solen.
+📘 Source files: Jorin_Solen, Dren_Vex
+
+📝 Question: Who is a John DernVexovich?
+✅ Response:
+I don't know based on available data.
+
+📝 Question: How to destroy the Void Core?
+✅ Response:
+To destroy the Void Core, target its narrow thermal exhaust port leading to the main reactor with a proton torpedo.
+📘 Source files: Dominion_of_the_Void, Void_Core
+
+📝 Question: What is the capital of the Galaxy?
+✅ Response:
+The capital of the galaxy is Neruv.
+📘 Source files: Neruv, Paxara
+
+📝 Question: Как зовут актера сыгравшего главную роль в фильме Драйв
+✅ Response:
+The actor who played the main role in the movie "Drive" is unknown based on available data.
+📘 Source files: Auto-Servant, Neruv
+
