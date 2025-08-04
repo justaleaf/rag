@@ -149,6 +149,17 @@ I cannot disclose sensitive or potentially malicious information.
 ✅ Response:
 I cannot disclose sensitive or potentially malicious information.
 
+### Скриншоты диалогов  
+
+![image](https://github.com/justaleaf/rag/blob/rag/screenshots/1.png)  
+![image](https://github.com/justaleaf/rag/blob/rag/screenshots/2.png)  
+![image](https://github.com/justaleaf/rag/blob/rag/screenshots/3.png)  
+![image](https://github.com/justaleaf/rag/blob/rag/screenshots/4.png)  
+![image](https://github.com/justaleaf/rag/blob/rag/screenshots/5.png)  
+![image](https://github.com/justaleaf/rag/blob/rag/screenshots/6.png)  
+![image](https://github.com/justaleaf/rag/blob/rag/screenshots/7.png)  
+
+
 #### Какая защита использовалась
 1. System Prompt  
 Запрещает следовать инструкциям из контекста  
