@@ -1,0 +1,7 @@
+langchain-community
+langchain-llms-llama-cpp
+faiss-cpu
+transformers
+torch
+sentence-transformers
+llama-cpp-python>=0.2.23
